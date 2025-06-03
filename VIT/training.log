@@ -1,0 +1,75 @@
+2025-05-23 17:55:00,554 - INFO - Starting Training
+2025-05-23 17:55:39,803 - INFO - Starting Training
+2025-05-23 18:03:35,281 - INFO - Epoch 1 | Loss: 0.2281 | Accuracy: 98.04000%
+2025-05-23 18:11:33,062 - INFO - Epoch 2 | Loss: 0.0322 | Accuracy: 97.76000%
+2025-05-23 18:19:30,287 - INFO - Epoch 3 | Loss: 0.0195 | Accuracy: 98.17000%
+2025-05-23 18:27:28,480 - INFO - Epoch 4 | Loss: 0.0135 | Accuracy: 98.47000%
+2025-05-23 18:36:34,461 - INFO - Epoch 5 | Loss: 0.0131 | Accuracy: 98.02000%
+2025-05-23 18:44:31,147 - INFO - Epoch 6 | Loss: 0.0101 | Accuracy: 98.18000%
+2025-05-23 18:52:25,972 - INFO - Epoch 7 | Loss: 0.0095 | Accuracy: 98.29000%
+2025-05-23 19:00:21,740 - INFO - Epoch 8 | Loss: 0.0093 | Accuracy: 98.03000%
+2025-05-23 19:08:16,450 - INFO - Epoch 9 | Loss: 0.0082 | Accuracy: 98.11000%
+2025-05-23 19:16:13,068 - INFO - Epoch 10 | Loss: 0.0059 | Accuracy: 98.16000%
+2025-05-23 19:24:08,717 - INFO - Epoch 11 | Loss: 0.0066 | Accuracy: 98.34000%
+2025-05-23 19:32:02,423 - INFO - Epoch 12 | Loss: 0.0064 | Accuracy: 98.34000%
+2025-05-23 19:39:57,200 - INFO - Epoch 13 | Loss: 0.0066 | Accuracy: 98.12000%
+2025-05-23 22:42:32,032 - INFO - Starting Training
+2025-05-23 22:43:27,489 - INFO - Starting Training
+2025-05-23 22:45:09,251 - INFO - Starting Training
+2025-05-23 22:49:44,970 - INFO - Starting Training
+2025-05-23 22:57:38,820 - INFO - Epoch 1 | Loss: 0.2337 | Accuracy: 98.22000%
+2025-05-23 23:05:31,256 - INFO - Epoch 2 | Loss: 0.0342 | Accuracy: 98.39000%
+2025-05-23 23:13:28,248 - INFO - Epoch 3 | Loss: 0.0181 | Accuracy: 98.30000%
+2025-05-23 23:22:02,947 - INFO - Epoch 4 | Loss: 0.0145 | Accuracy: 98.22000%
+2025-05-23 23:26:46,701 - INFO - Starting Training
+2025-05-23 23:35:31,211 - INFO - Epoch 1 | Loss: 0.2447 | Accuracy: 98.16000%
+2025-05-23 23:44:12,809 - INFO - Epoch 2 | Loss: 0.0319 | Accuracy: 98.33000%
+2025-05-23 23:52:57,743 - INFO - Epoch 3 | Loss: 0.0192 | Accuracy: 98.29000%
+2025-05-24 00:01:41,441 - INFO - Epoch 4 | Loss: 0.0145 | Accuracy: 98.46000%
+2025-05-24 00:10:21,331 - INFO - Epoch 5 | Loss: 0.0119 | Accuracy: 98.18000%
+2025-05-24 00:19:04,374 - INFO - Epoch 6 | Loss: 0.0104 | Accuracy: 98.49000%
+2025-05-24 00:27:47,305 - INFO - Epoch 7 | Loss: 0.0092 | Accuracy: 98.25000%
+2025-05-24 00:36:26,702 - INFO - Epoch 8 | Loss: 0.0070 | Accuracy: 98.31000%
+2025-05-24 00:45:07,624 - INFO - Epoch 9 | Loss: 0.0081 | Accuracy: 98.24000%
+2025-05-24 00:53:47,512 - INFO - Epoch 10 | Loss: 0.0072 | Accuracy: 98.47000%
+2025-05-24 01:02:29,311 - INFO - Epoch 11 | Loss: 0.0053 | Accuracy: 98.18000%
+2025-05-24 01:11:10,873 - INFO - Epoch 12 | Loss: 0.0058 | Accuracy: 98.37000%
+2025-05-24 01:19:56,732 - INFO - Epoch 13 | Loss: 0.0055 | Accuracy: 98.37000%
+2025-05-24 01:28:36,949 - INFO - Epoch 14 | Loss: 0.0047 | Accuracy: 98.46000%
+2025-05-24 01:37:20,545 - INFO - Epoch 15 | Loss: 0.0050 | Accuracy: 98.48000%
+2025-05-24 01:46:04,703 - INFO - Epoch 16 | Loss: 0.0035 | Accuracy: 98.19000%
+2025-05-24 01:54:50,549 - INFO - Epoch 17 | Loss: 0.0034 | Accuracy: 97.97000%
+2025-05-24 02:03:31,360 - INFO - Epoch 18 | Loss: 0.0025 | Accuracy: 98.21000%
+2025-05-24 02:12:14,224 - INFO - Epoch 19 | Loss: 0.0030 | Accuracy: 98.39000%
+2025-05-24 02:20:59,512 - INFO - Epoch 20 | Loss: 0.0034 | Accuracy: 98.26000%
+2025-05-24 02:29:46,895 - INFO - Epoch 21 | Loss: 0.0021 | Accuracy: 98.36000%
+2025-05-24 02:38:33,276 - INFO - Epoch 22 | Loss: 0.0022 | Accuracy: 98.56000%
+2025-05-24 02:47:15,802 - INFO - Epoch 23 | Loss: 0.0016 | Accuracy: 98.54000%
+2025-05-24 02:56:02,349 - INFO - Epoch 24 | Loss: 0.0014 | Accuracy: 98.47000%
+2025-05-24 03:04:47,673 - INFO - Epoch 25 | Loss: 0.0007 | Accuracy: 98.50000%
+2025-05-24 03:13:34,483 - INFO - Epoch 26 | Loss: 0.0014 | Accuracy: 98.44000%
+2025-05-24 03:22:23,984 - INFO - Epoch 27 | Loss: 0.0013 | Accuracy: 98.38000%
+2025-05-24 03:31:11,394 - INFO - Epoch 28 | Loss: 0.0011 | Accuracy: 98.24000%
+2025-05-24 03:39:57,493 - INFO - Epoch 29 | Loss: 0.0008 | Accuracy: 98.41000%
+2025-05-24 03:48:39,118 - INFO - Epoch 30 | Loss: 0.0006 | Accuracy: 98.42000%
+2025-05-24 03:57:22,795 - INFO - Epoch 31 | Loss: 0.0004 | Accuracy: 98.37000%
+2025-05-24 04:06:05,355 - INFO - Epoch 32 | Loss: 0.0002 | Accuracy: 98.43000%
+2025-05-24 04:14:52,725 - INFO - Epoch 33 | Loss: 0.0008 | Accuracy: 98.45000%
+2025-05-24 04:23:40,702 - INFO - Epoch 34 | Loss: 0.0001 | Accuracy: 98.48000%
+2025-05-24 04:32:23,458 - INFO - Epoch 35 | Loss: 0.0000 | Accuracy: 98.45000%
+2025-05-24 04:41:03,750 - INFO - Epoch 36 | Loss: 0.0001 | Accuracy: 98.58000%
+2025-05-24 04:49:42,549 - INFO - Epoch 37 | Loss: 0.0001 | Accuracy: 98.55000%
+2025-05-24 04:58:26,394 - INFO - Epoch 38 | Loss: 0.0000 | Accuracy: 98.59000%
+2025-05-24 05:07:08,017 - INFO - Epoch 39 | Loss: 0.0000 | Accuracy: 98.61000%
+2025-05-24 05:15:51,423 - INFO - Epoch 40 | Loss: 0.0000 | Accuracy: 98.61000%
+2025-05-24 05:24:33,291 - INFO - Epoch 41 | Loss: 0.0000 | Accuracy: 98.62000%
+2025-05-24 05:33:14,881 - INFO - Epoch 42 | Loss: 0.0000 | Accuracy: 98.61000%
+2025-05-24 05:42:00,967 - INFO - Epoch 43 | Loss: 0.0000 | Accuracy: 98.62000%
+2025-05-24 05:50:40,899 - INFO - Epoch 44 | Loss: 0.0000 | Accuracy: 98.63000%
+2025-05-24 05:59:25,134 - INFO - Epoch 45 | Loss: 0.0000 | Accuracy: 98.63000%
+2025-05-24 06:08:09,386 - INFO - Epoch 46 | Loss: 0.0000 | Accuracy: 98.62000%
+2025-05-24 06:16:51,679 - INFO - Epoch 47 | Loss: 0.0000 | Accuracy: 98.62000%
+2025-05-24 06:25:33,710 - INFO - Epoch 48 | Loss: 0.0000 | Accuracy: 98.62000%
+2025-05-24 06:34:22,244 - INFO - Epoch 49 | Loss: 0.0000 | Accuracy: 98.62000%
+2025-05-24 06:43:03,807 - INFO - Epoch 50 | Loss: 0.0000 | Accuracy: 98.62000%
+2025-05-24 06:43:04,817 - INFO - Training Completed
